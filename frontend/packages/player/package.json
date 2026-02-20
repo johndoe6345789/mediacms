@@ -55,7 +55,7 @@
     "rollup-plugin-gzip": "^2.5.0",
     "rollup-plugin-postcss": "^4.0.0",
     "rollup-plugin-visualizer": "^5.5.0",
-    "sass-loader": "^12.1.0",
+    "sass-loader": "^16.0.7",
     "style-loader": "^2.0.0",
     "trim-newlines": "^4.0.2"
   }
